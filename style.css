@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+	background-image: url("https://wallpaper.dog/large/17078148.jpg");
+	background-size: cover;
+	background-position: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border: 5px solid goldenrod;
+}
+h1{
+	color: yellow;
+	text-decoration: underline;
+}
+#status{
+	color: white;
+	font-weight: bold;
+}
